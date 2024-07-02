@@ -4,15 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class SkillsController extends Controller
-{
-    //
-}
-// app/Http/Controllers/SkillsController.php
 
-namespace App\Http\Controllers;
-
-use Illuminate\Http\Request;
 
 class SkillsController extends Controller
 {

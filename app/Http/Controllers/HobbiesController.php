@@ -4,15 +4,6 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class HobbiesController extends Controller
-{
-    //
-}
-// app/Http/Controllers/HobbiesController.php
-
-namespace App\Http\Controllers;
-
-use Illuminate\Http\Request;
 
 class HobbiesController extends Controller
 {

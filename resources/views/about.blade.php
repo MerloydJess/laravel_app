@@ -1,8 +1,7 @@
 <!-- resources/views/about.blade.php -->
 
-@extends('layouts.app') {{-- Assuming you have a layout file --}}
 
-@section('content')
+
     <div class="container">
         <h1>About Me</h1>
         <p>
@@ -15,4 +14,4 @@
         <a href="{{ route('skills') }}" class="btn btn-primary">Skills</a>
         <a href="{{ route('hobbies') }}" class="btn btn-primary">Hobbies</a>
     </div>
-@endsection
+
